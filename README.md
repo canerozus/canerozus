@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack developer from Turkey</h3>
 
 
-- 👨‍💻 All of my projects are available at https://canerozus.github.io
+- 👨‍💻 All of my projects are available at <a href="https://canerozus.github.io" target="_blank" >canerozus.github.io<a />
 
 - ⚡ This is my LinkedIn profile [https://www.linkedin.com/in/canerozus/](https://www.linkedin.com/in/canerozus/)
 
