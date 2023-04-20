@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://canerozus.github.io" target="_blank" >canerozus.github.io<a />
 
-- ⚡ This is my LinkedIn profile [https://www.linkedin.com/in/canerozus/](https://www.linkedin.com/in/canerozus/)
+- ⚡ This is my LinkedIn profile [www.linkedin.com/in/canerozus/](https://www.linkedin.com/in/canerozus/)
 
 - 📫 How to reach me **canerozus@hotmail.com**
 
